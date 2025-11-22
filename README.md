@@ -17,7 +17,7 @@
 `HTML` · `CSS` · `React`
 
 **Backend:**  
-`Node.js` · `Express` · `Flask`  · `Nest.js` . `.Net`  
+`Node.js` · `Express` · `Flask`  · `Nest.js` · `.Net`  
 
 **Databases:**  
 `MySQL` · `MongoDB`
