@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sherif Harby</h1>
-<h3 align="center">Passionate Developer | Builder | Tech Learner</h3>
+<h3 align="center">web Developer | Builder | Tech Learner</h3>
 
 ---
 
@@ -7,48 +7,6 @@
 - 💻 I enjoy building apps, tools, and experimenting with new technologies  
 - 📚 Always learning and improving  
 - 🤝 Open to collaborations  
-
----
-
-## 🔥 Featured Projects
-
-### ⭐ **Project 1 — Project Name**
-**Description:** Short overview of what your project does  
-**Tech:** Node.js, React, MongoDB  
-**Repo:** 👉 [GitHub Link](#)
-
----
-
-### ⭐ **Project 2 — Project Name**
-**Description:** Brief description  
-**Tech:** Python, Flask  
-**Repo:** 👉 [GitHub Link](#)
-
----
-
-### ⭐ **Project 3 — Project Name**
-**Description:** Brief description  
-**Tech:** Java, MySQL  
-**Repo:** 👉 [GitHub Link](#)
-
----
-
-## 📂 All My Repositories
-Here are some categories to organize your work:
-
-
-### ⚙️ Backend / APIs
-- [Repo Name](#)
-- [Repo Name](#)
-
-### 📱 Mobile Apps
-- [Repo Name](#)
-- [Repo Name](#)
-
-### 🧪 Testing / Tools
-- [Repo Name](#)
-
----
 
 ## 🛠️ Skills & Technologies
 
@@ -59,8 +17,7 @@ Here are some categories to organize your work:
 `HTML` · `CSS` · `React`
 
 **Backend:**  
-`Node.js` · `Express` · `Flask`  · `Nest.js`  
- `.Net`  
+`Node.js` · `Express` · `Flask`  · `Nest.js` . `.Net`  
 
 **Databases:**  
 `MySQL` · `MongoDB`
@@ -72,8 +29,4 @@ Here are some categories to organize your work:
 
 ## 📧 Contact Me
 - **Email:** your-email@example.com  
-- **LinkedIn:** [Your Profile](#)  
-- **Portfolio:** [Your Website](#)
-
----
-
+- **LinkedIn:** [www.linkedin.com/in/sherif-harby](#)  
